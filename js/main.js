@@ -6,7 +6,7 @@ const data = getJsonData();
 let timeframe = profileActiveLink.dataset.value;
 
 // add active state to card
-addActiveState(cards);
+// addActiveState(cards);
 // add active state to profile link
 addActiveState(profileLinks);
 // change card data when click in profile link
